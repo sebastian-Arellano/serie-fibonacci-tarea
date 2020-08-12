@@ -1,3 +1,7 @@
+/**
+	jessy sebastian arellano soriano
+*/
+
 import java.util.Scanner;
 
 public class Fibonacci{
@@ -11,7 +15,6 @@ public class Fibonacci{
    A=x.nextInt();
    
    for(i = 0; i < A; i++){
-    
     
      c = a + b;
      a = b;
